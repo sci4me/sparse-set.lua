@@ -97,8 +97,8 @@ function SparseIntSet:each(fn)
 end
 
 return setmetatable({
-    _DESCRIPTION    = "",
-    _URL            = "",
+    _DESCRIPTION    = "An efficient sparse set implementation",
+    _URL            = "https://github.com/sci4me/sparse-set.lua",
     _VERSION        = "sparse-set.lua 0.1.0",
     _LICENSE        = [[
         MIT License
