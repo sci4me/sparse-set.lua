@@ -1,6 +1,6 @@
 rockspec_format = "3.0"
 
-package = "ihex"
+package = "sparse-set"
 version = "dev-1"
 
 source = {
