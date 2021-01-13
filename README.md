@@ -4,3 +4,5 @@
 An efficient sparse set implementation (based on "An Efficient Representation for Sparse Sets"; http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.7319&rep=rep1&type=pdf)
 
 For an alternate explanation: https://research.swtch.com/sparse
+
+[Documentation](https://sci4me.github.io/sparse-set.lua/)
