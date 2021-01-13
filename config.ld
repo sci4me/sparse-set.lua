@@ -1,4 +1,4 @@
-project = "ihex.lua"
+project = "sparse-set.lua"
 description = ""
 full_description = ""
 title = "sparse-set.lua documentation"
